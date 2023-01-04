@@ -1,0 +1,62 @@
+[
+    {
+      "id": "63b462d7e72b7dfbcbdd2a63",
+      "name": "GLOCK 17 Gens",
+      "capacity":"17+1",
+      "img": "./image/19-191161_scorpion-gun-hd-png-download.png",
+      "bullet": "11mn",
+      "price": 565,
+      "category": "male",
+      "action": "Semi-Autometic"
+    },
+    {
+      "id": "63b462d76edb47a391edf823",
+      "name": "FN 509 Tactical",
+      "capacity":"10+1" ,
+      "img": "./image/19-191511_transparent-tec9-png-bsf-gun-name-png-download.png",
+      "bullet": "12mn",
+      "price": 677,
+      "category": "male",
+      "action":"Semi-Autometic"
+    },
+    {
+      "id": "63b462d758aced4e98e97cd8",
+      "name": "MK14-gun",
+      "capacity":"7+1",
+      "img": "./image/985-9854632_mk14-gun-arma-bolsonaro-csgo-pubg-freefire-custom.png",
+      "bullet": "14mn",
+      "price": 597,
+      "category": "male",
+      "action": "Semi-Autometic"
+    },
+    {
+      "id": "63b462d755b9ffc990dabe4d",
+      "name": "Handgun",
+      "capacity":"8+1",
+      "img": "./image/Handgun-PNG-Image.png",
+      "bullet":" 9mn",
+      "price": 539,
+      "category": "male",
+      "action": "Semi-Autometic"
+    },
+    {
+      "id": "63b462d7df9fb36447e816aa",
+      "name": "Pistol",
+      "capacity":"9+1",
+      "img": "./image/png-clipart-firearm-weapon-pistol-handgun-hand-gun-hand-handgun.png",
+      "bullet":" 9mn",
+      "price": 645,
+      "category": "male",
+      "action": "Semi-Autometic"
+    },
+    {
+      "id": "63b462d7758016f47e5f8a22",
+      "name": "m1911-Pistol",
+      "capacity":"12+1",
+      "img": "./image/png-clipart-m1911-pistol-colt-s-manufacturing-company-blowback-45-acp-colt-45.png",
+      "bullet": "15mn",
+      "price": 517,
+      "category": "male",
+      "action": "Semi-Autometic"
+    }
+  ]
